@@ -1,6 +1,6 @@
-# cc-gen
+# cc-gen coded by: Aikin Luke
 #           
-# CC-gen is a credit card generator coded in python
+# CC-gen is a credit card generator coded in python programming language
 #                                      
 # ==========installation===========
 # ======Linux=======
