@@ -1,6 +1,7 @@
-import time, random, colorama
+import time, random, colorama, os, sys
 from colorama import Fore
 
+os.system("clear")
 char = "1234567890"
 char_lst = list(char)
 ch = ["01","02","03","04","05","06","07","08","09","10","11","12",]
@@ -11,6 +12,62 @@ cc = '12345'
 
 print("""\033[1;31;40m
 
+ ██████╗
+██╔════╝
+██║     
+██║     
+╚██████╗
+ ╚═════╝ 
+                                                     
+""")
+
+time.sleep(.3)
+os.system("clear")
+
+print("""\033[1;31;40m
+
+ ██████╗ ██████╗           
+██╔════╝██╔════╝          
+██║     ██║         █████╗
+██║     ██║         ╚════╝
+╚██████╗╚██████╗          
+ ╚═════╝ ╚═════╝          
+                                                     
+""")
+
+time.sleep(.3)
+os.system("clear")
+
+print("""\033[1;31;40m
+
+ ██████╗ ██████╗           ██████╗
+██╔════╝██╔════╝          ██╔════╝ 
+██║     ██║         █████╗██║  ███╗
+██║     ██║         ╚════╝██║   ██║
+╚██████╗╚██████╗          ╚██████╔╝
+ ╚═════╝ ╚═════╝           ╚═════╝ 
+                                                     
+""")
+
+time.sleep(.3)
+os.system("clear")
+
+print("""\033[1;31;40m
+
+ ██████╗ ██████╗           ██████╗ ███████╗
+██╔════╝██╔════╝          ██╔════╝ ██╔════╝
+██║     ██║         █████╗██║  ███╗█████╗  
+██║     ██║         ╚════╝██║   ██║██╔══╝  
+╚██████╗╚██████╗          ╚██████╔╝███████╗
+ ╚═════╝ ╚═════╝           ╚═════╝ ╚══════╝
+                                                     
+""")
+
+time.sleep(.3)
+os.system("clear")
+
+print("""\033[1;31;40m
+
  ██████╗ ██████╗           ██████╗ ███████╗███╗   ██╗
 ██╔════╝██╔════╝          ██╔════╝ ██╔════╝████╗  ██║
 ██║     ██║         █████╗██║  ███╗█████╗  ██╔██╗ ██║
@@ -18,8 +75,8 @@ print("""\033[1;31;40m
 ╚██████╗╚██████╗          ╚██████╔╝███████╗██║ ╚████║
  ╚═════╝ ╚═════╝           ╚═════╝ ╚══════╝╚═╝  ╚═══╝
                                                      
-
 """)
+
 print(Fore.GREEN+"coded by: Anikin Luke")
 
 while True:
@@ -64,38 +121,38 @@ while True:
     
     elif(ui=="about"):
         print("""
-        =============================================
-	+|             About this tool             |+
-	=============================================
-	+|              This Tool Is               |+
-	+|               Is Created                |+
-	+|                   By                    |+
-	+|            Anikin Luke Abales           |+
-	+|  for SudoCentercorp team CyberHackers   |+
-	+|-----------------------------------------|+
-	+| Tool name: CC generator     	           |+
-	+| Use To Generate Credit card info's	   |+
-	+| Tool version: 1.1                       |+
-	+|-----------------------------------------|+
-	+|                Contact                  |+
-	+| 	      Facebook-Group               |+
-	+|  facebook.com/groups/sudocyberhackers   |+
-	+|--------------^--------^-----------------|+
-	+|   Email: Anonnewshacker@gmail.com       |+
-	+|   Github: abalesluke                    |+
-	+|                                         |+
-	+|                 Note!                   |+
-	+|   This tool is now available on github  |+
-	+|   so please dont republish it on github |+
-	+|   i do not autorized you to edit this   |+
-	+|   tool or republish it on github.       |+
-	+|                                         |+
-	+|         Editing or changing the         |+
-	+|       name of the coder or developer    |+
-	+|        wont make you a programmer.      |+
-	+|                                         |+
-	+|        [+]Respect the coder's[+]        |+
-	 ===========================================  
+    =============================================
+    +|             About this tool             |+
+    =============================================
+    +|              This Tool Is               |+
+    +|               Is Created                |+
+    +|                   By                    |+
+    +|            Anikin Luke Abales           |+
+    +|  for SudoCentercorp team CyberHackers   |+
+    +|-----------------------------------------|+
+    +| Tool name: CC generator                 |+
+    +| Use To Generate Credit card info's      |+
+    +| Tool version: 1.1                       |+
+    +|-----------------------------------------|+
+    +|                Contact                  |+
+    +|        Facebook-Group                   |+
+    +|  facebook.com/groups/sudocyberhackers   |+
+    +|--------------^--------^-----------------|+
+    +|   Email: Anonnewshacker@gmail.com       |+
+    +|   Github: abalesluke                    |+
+    +|                                         |+
+    +|                 Note!                   |+
+    +|   This tool is now available on github  |+
+    +|   so please dont republish it on github |+
+    +|   i do not autorized you to edit this   |+
+    +|   tool or republish it on github.       |+
+    +|                                         |+
+    +|         Editing or changing the         |+
+    +|       name of the coder or developer    |+
+    +|        wont make you a programmer.      |+
+    +|                                         |+
+    +|        [+]Respect the coder's[+]        |+
+     ===========================================  
         """)
         
     else:
