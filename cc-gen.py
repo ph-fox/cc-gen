@@ -1,6 +1,7 @@
 import time, random, colorama, os, sys
 from colorama import Fore
 
+version = "1.3"
 os.system("clear")
 char = "1234567890"
 char_lst = list(char)
@@ -120,7 +121,7 @@ while True:
         break
     
     elif(ui=="about"):
-        print("""
+        print(f"""
     =============================================
     +|             About this tool             |+
     =============================================
@@ -132,7 +133,7 @@ while True:
     +|-----------------------------------------|+
     +| Tool name: CC generator                 |+
     +| Use To Generate Credit card info's      |+
-    +| Tool version: 1.1                       |+
+    +| Tool version: {version}                      |+
     +|-----------------------------------------|+
     +|                Contact                  |+
     +|        Facebook-Group                   |+
