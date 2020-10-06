@@ -133,7 +133,7 @@ while True:
     +|-----------------------------------------|+
     +| Tool name: CC generator                 |+
     +| Use To Generate Credit card info's      |+
-    +| Tool version: {version}                      |+
+    +| Tool version: {version}                       |+
     +|-----------------------------------------|+
     +|                Contact                  |+
     +|        Facebook-Group                   |+
