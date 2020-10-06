@@ -74,11 +74,11 @@ while True:
 	+|  for SudoCentercorp team CyberHackers   |+
 	+|-----------------------------------------|+
 	+| Tool name: CC generator     	           |+
-	+| Use To Generate Credit card info's	 	   |+
+	+| Use To Generate Credit card info's	   |+
 	+| Tool version: 1.1                       |+
 	+|-----------------------------------------|+
 	+|                Contact                  |+
-	+| 	      Facebook-Group         	     |+
+	+| 	      Facebook-Group               |+
 	+|  facebook.com/groups/sudocyberhackers   |+
 	+|--------------^--------^-----------------|+
 	+|   Email: Anonnewshacker@gmail.com       |+
